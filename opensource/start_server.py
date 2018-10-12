@@ -48,7 +48,7 @@ exec(serr)
 
 
 print(("""
-	TurkHackTeam //AngelRayt
+	
 
 	Bağlantı Adresiniz : {}:{}
 
